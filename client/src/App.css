@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.jokeBtn {
+  text-decoration: none;
+  color: white;
+  background-color: turquoise;
+  font-weight: bold;
+  padding: 1em;
+}
+
+button {
+  background-color: turquoise;
+  padding: 1em;
+}
