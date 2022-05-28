@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom'
 
 import Header from '../components/Header';
-import GeekJoke from '../components/GeekJoke';
+// import GeekJoke from '../components/GeekJoke';
 import Footer from '../components/Footer';
 
 
