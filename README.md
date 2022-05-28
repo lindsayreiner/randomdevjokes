@@ -1,2 +1,2 @@
-# randomdevjokes
-Using 3rd party API to fetch and render Web Dev jokes
+# randomgeekjokes
+Using 3rd party API to fetch and render Geek jokes
