@@ -13,6 +13,7 @@ function App() {
           <Routes>
             < Route path="/" element={<Home />} />
             < Route path="/joke" element={<JokePage />} />
+            {/* < Route path="/math-game" element={<MathPage />} /> */}
           </Routes>
 
         </header>
